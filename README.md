@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, i'm Luis Carlos
 
-<!--
-**LuisCarlos-git/LuisCarlos-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⏳ 22 year old
+- 🕮 I'm currently learning English
+- 😃 Front-end developer at Grupo DPSP
 
-Here are some ideas to get you started:
+<a href="https://github.com/LuisCarlos-git">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuisCarlos-git&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlos-git&layout=compact&theme=radical" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
