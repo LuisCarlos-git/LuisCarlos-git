@@ -1,6 +1,6 @@
 ### Hello, i'm Luis Carlos
 
-- ⏳ 22 year old
+- ⏳ 22 years old
 - 🕮 I'm currently learning English
 - 😃 Front-end developer at Grupo DPSP
 <div>
@@ -40,7 +40,8 @@
 <br/>
 <br/>
 <br/>
-
+### Social media
+<br/>
 <a href="https://www.linkedin.com/in/luis-carlos-bastos-0a7327195/">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
