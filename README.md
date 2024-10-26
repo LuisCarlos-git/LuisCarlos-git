@@ -1,6 +1,6 @@
 ### Hello, i'm Luis Carlos
 
-- ⏳ 22 years old
+- ⏳ 24 years old
 - 🕮 I'm currently learning English
 - 😃 Front-end developer at Grupo DPSP
 <div>
